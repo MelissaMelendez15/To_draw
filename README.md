@@ -6,6 +6,7 @@ Font used tutorial:  https://devcode.la/tutoriales/finn-html-css/
 ## Installation
 
 Code Studio Visual as a code editor
+
 Just click with the right button on the HTML document and choose the option "Open with default Browser", and it will automatically open the Web in your browser.
 
 
